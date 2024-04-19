@@ -1,0 +1,11 @@
+Model Information:
+* title:	Peter Ganine Classic Knight
+* source:	https://sketchfab.com/3d-models/peter-ganine-classic-knight-55baf6311db94204a5575220ea5203d2
+* author:	Anubis_ (https://sketchfab.com/Anubis_)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Peter Ganine Classic Knight" (https://sketchfab.com/3d-models/peter-ganine-classic-knight-55baf6311db94204a5575220ea5203d2) by Anubis_ (https://sketchfab.com/Anubis_) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
